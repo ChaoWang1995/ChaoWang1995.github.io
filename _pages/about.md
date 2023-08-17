@@ -20,16 +20,16 @@ Education
 ======
 * Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
 * Sept. 2019 — June. 2022: Postgraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
-+ July. 2018 — Aug. 2019: User researcher working at an internet company (Beijing, China).
-- Sept. 2014 — June. 2018: Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
+* July. 2018 — Aug. 2019: User researcher working at an internet company (Beijing, China).
+* Sept. 2014 — June. 2018: Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
 
 Honors and Awards
 ------
-1. Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
+* Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
 
 Activities
 ------
-1. Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
+* Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
 
 For more info
 ------
