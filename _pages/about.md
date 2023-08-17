@@ -12,7 +12,7 @@ I am looking for an one-year (2024—2025) joint PhD. student position in inform
 
 Short Bio
 ======
-I am Chao Wang (王超), a fourth-year doctoral student at the [School of Information Management]<https://ischool.sysu.edu.cn/zh-hans>, [Sun Yat sen University (SYSU)]<https://www.sysu.edu.cn/sysuen/>, majoring in Information Literacy, Digital Literacy, and Basic Theory of Library Science.
+I am Chao Wang (王超), a fourth-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in Information Literacy, Digital Literacy, and Basic Theory of Library Science.
 
 My primary research interests is History of Library Science Figures' Ideology.
 
