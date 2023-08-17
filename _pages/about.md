@@ -36,8 +36,5 @@ Honors and Awards
 
 Activities
 ======
-* Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
-
-For more info
-======
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* **Editorial Assistant (part-time)** (National Library of China Publishing House, Jun. 2020 — Now)
+* **China Young Volunteer** (Sep. 2014 — Now)
