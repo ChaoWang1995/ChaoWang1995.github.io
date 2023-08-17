@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for **a joint PhD. student position** in information literacy or digital literacy *(one-year, from 2024 to 2025)*.
+I am looking for a **joint PhD. student position** in information literacy or digital literacy *(one-year, from 2024 to 2025)*.
 
 Short Bio
 ======
