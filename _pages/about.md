@@ -18,10 +18,10 @@ My primary research interests is History of Library Science Figures' Ideology.
 
 Education
 ======
-·1. Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
-·1. Sept. 2019 — June. 2022: Postgraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
-·1. July. 2018 — Aug. 2019: User researcher working at an internet company (Beijing, China).
-·1. Sept. 2014 — June. 2018: Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
+1. Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
+1. Sept. 2019 — June. 2022: Postgraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
+1. July. 2018 — Aug. 2019: User researcher working at an internet company (Beijing, China).
+1. Sept. 2014 — June. 2018: Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
 
 Site-wide configuration
 ------
