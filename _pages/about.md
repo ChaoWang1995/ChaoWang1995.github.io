@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a joint PhD. student position in machine learning.
+I am looking for a joint PhD. student position in information/digital literacy (education).
 
 A data-driven personal website
 ======
