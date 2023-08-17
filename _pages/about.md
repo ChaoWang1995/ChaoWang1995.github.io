@@ -25,9 +25,9 @@ Education
 
 Honors and Awards
 ======
-* Sept. 2022: **Best Paper Honorable Mention** (ASIS&T SIG-KM International Research Symposium 2022)
-* Outstanding Freshman Scholarship Top 5% 2019
-* Outstanding Undergraduate Scholarship, Gold award Top 3% 2020
+* **Best Paper Honorable Mention** ([ASIS&T SIG-KM International Research Symposium 2022](https://sigkmsymposium.ci.unt.edu/), Sept. 2022)
+* **Most Critical Thinking Paper Award** ([LIS Young Scholars Forum 2021](http://www.im.pku.edu.cn/xwgg/xgxw/357089.htm), Sept. 2021)
+* **Provincial Second Prize** (["Challenge Cup" Extracurricular Academic and Technological Works Competition](https://www.tiaozhanbei.net/), Jun. 2021)
 * Outstanding Undergraduate Scholarship, Bronze award Top 10% 2022, 2021
 * National Grants Top 5% 2022, 2021, 2019
 
