@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for an one-year (2024-2025) joint PhD. student position in information/digital literacy (education).
+I am looking for an one-year (2024—2025) joint PhD. student position in information/digital literacy (education).
 
 Short Bio
 ======
@@ -18,12 +18,10 @@ My primary research interests is History of Library Science Figures' Ideology.
 
 Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+·. Sept. 2022 — Now: Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China).
+·. Sept. 2019 — June. 2022: Postgraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
+·. July. 2018 — Aug. 2019: User researcher working at an internet company (Beijing, China).
+·. Sept. 2014 — June. 2018: Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China).
 
 Site-wide configuration
 ------
