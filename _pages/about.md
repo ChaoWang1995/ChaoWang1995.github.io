@@ -16,7 +16,7 @@ Short Bio
 ======
 I am **Chao Wang (王超)**, a fourth-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **Information Literacy & Digital Literacy (especially their education)**.
 
-My primary research field is History of Library Science Figures' Ideology.  
+My primary research field are Reading Promotion, and History of Library Science Figures' Ideology.  
 
 ***
 
@@ -89,5 +89,7 @@ You can contact me through the following channels. **Please feel free to contact
 * **Email:** [wangch385@mail2.sysu.edu.cn](wangch385@mail2.sysu.edu.cn) (the most recommended contact channel, permanently effective)
 * **Tel:** +34 662 284 816 (only available during IFLA WLIC 2023)
 * **WhatsApp:** Please scan the QR code:
-***
-![WhatsApp QR code](../images/code.jpg)
+  
+***  
+
+![WhatsApp QR code](../images/QRcode.jpg)
