@@ -90,4 +90,4 @@ You can contact me through the following channels. **Please feel free to contact
 * **Tel:** +34 662 284 816 (only available during IFLA WLIC 2023)
 * **WhatsApp:** Please scan the QR code:
   
-![WhatsApp QR code](../images/QRcode.jpg)
+    ![WhatsApp QR code](../images/QRcode.jpg)
