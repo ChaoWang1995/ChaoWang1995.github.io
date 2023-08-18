@@ -10,6 +10,7 @@ redirect_from:
 
 I am looking for a **joint PhD. student position** in information literacy or digital literacy *(one-year, from 2024 to 2025)*.  
 
+***
 
 Short Bio
 ======
@@ -26,6 +27,13 @@ Education and Job
 * Jul. 2018 — Aug. 2019 : User researcher working at an internet company (Beijing, China)
 * Sep. 2014 — Jun. 2018 : Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China)
   
+***
+
+Publications
+======
+* **First Author.** (2022). [Leon Carnovsky's Research on Reading and Its Enlightenment](https://cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=TSGJ202205008&uniplatform=OVERSEA&v=npWVyDJWFL8d3rqCXYl6ok0OTwlsldWO4U3x-tePNyXAzLKwCMbky17xczH7h19j). *Library Development*,2022,5:59-65,72.
+  
+***
 
 Honors and Awards
 ======
@@ -38,6 +46,7 @@ Honors and Awards
 * **HBU Outstanding Graduate Scholarship, Gold Award** (Dec. 2020)
 * **HBU Outstanding Graduate Scholarship, Bronze award** (Nov. 2019; Dec. 2021)
   
+***
 
 Activities
 ======
