@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a **joint PhD. student position** in information literacy or digital literacy *(one-year, from 2024 to 2025)*.
+I am looking for a **joint PhD. student position** in information literacy or digital literacy *(one-year, from 2024 to 2025)*.  
+
 
 Short Bio
 ======
 I am **Chao Wang (王超)**, a fourth-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in Information Literacy, Digital Literacy, and Basic Theory of Library Science.
 
-My primary research interests is History of Library Science Figures' Ideology.
+My primary research interests is History of Library Science Figures' Ideology.  
+
 
 Education and Job
 ======
@@ -22,6 +24,7 @@ Education and Job
 * Sep. 2019 — Jun. 2022 : Postgraduate student at the [School of Management (Library Science)](http://manage.hbu.edu.cn/Graduate_show.php?cid=98&id=1524), [Hebei University (HBU)](http://en.hbu.cn/) (Baoding, Hebei, China)
 * Jul. 2018 — Aug. 2019 : User researcher working at an internet company (Beijing, China)
 * Sep. 2014 — Jun. 2018 : Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China)
+  
 
 Honors and Awards
 ======
@@ -33,6 +36,7 @@ Honors and Awards
 * **National Graduate Scholarship** (Dec. 2021)
 * **HBU Outstanding Graduate Scholarship, Gold Award** (Dec. 2020)
 * **HBU Outstanding Graduate Scholarship, Bronze award** (Nov. 2019; Dec. 2021)
+  
 
 Activities
 ======
