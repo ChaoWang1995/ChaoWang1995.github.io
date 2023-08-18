@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Chao Wang"
   avatar           : "Chao.png"
-  bio              : "Doctoral Student"
-  location         : "Location"
+  bio              : "Sun Yat-sen University"
+  location         : "Guangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
