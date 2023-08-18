@@ -46,7 +46,12 @@ Research papers presented at academic conferences
 * **First Author.** (2023). [Trends in Four Dimensions of Digital Inclusion and Disabled Employment in Digital Economy—Based on the Interpretation of the White Paper on Digital Inclusion & Technology Inclusion](http://pa.hnu.edu.cn/info/1137/7420.htm). **15th CYIF.** (write & oral presentation in English)
 * **First Author.** (2022). [Metadata Element Set Developing of Internet Motives Based on Users' Demands](https://sigkmsymposium.ci.unt.edu/). **ASIS&T SIG-KM 2022.** (write & oral presentation in English)
 
-
+Upcoming research papers
+-----
+* **Independent Author.** Study on the Causes and Countermeasures of Incidents of Violence on Medical Staffs Based on Knowledge Graph. (write in Chinese, accepted but not yet published)
+* **First Author.** Between Imagination: Rational Thinking of the Metaverse Library. (write in Chinese, still under review)
+* **Second Author/Corresponding Author.** Exploring the Social Impact of Public Libraries from the Perspective of Potential Users. (write in English, still under review)
+  
 Books (participate in writing/editing)
 ------
 * (2023). *[Resource Construction and Services of Middle School Library](http://www.nlcpress.com/ProductView.aspx?Id=11863)*. National Library of China Publishing House (Beijing, China).
