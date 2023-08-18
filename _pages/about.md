@@ -79,3 +79,11 @@ Activities
 ======
 * **Editorial Assistant (part-time)** (National Library of China Publishing House, Jun. 2020 — Now)
 * **China Young Volunteer** (Sep. 2014 — Now)
+    
+***
+
+Contact
+======
+* **Email:** [wangch385@mail2.sysu.edu.cn](wangch385@mail2.sysu.edu.cn) (the most recommended contact channel, permanently effective)
+* **Tel:** +34 662 284 816 (only available during IFLA WLIC 2023)
+* **WhatsApp** Please scan the QR code: ![WhatsApp QR code]()
