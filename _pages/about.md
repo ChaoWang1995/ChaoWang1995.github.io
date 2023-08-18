@@ -17,6 +17,7 @@ I am **Chao Wang (王超)**, a fourth-year doctoral student at the [School of In
 
 My primary research interests is History of Library Science Figures' Ideology.  
 
+***
 
 Education and Job
 ======
