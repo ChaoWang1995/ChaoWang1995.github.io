@@ -88,7 +88,7 @@ You can contact me through the following channels. **Please feel free to contact
 
 ***
 
-* **Email:** [wangch385@mail2.sysu.edu.cn](wangch385@mail2.sysu.edu.cn) (the most recommended contact channel, permanently effective)
-* **WhatsApp:** Please scan the QR code:
+* **Email:** [wangch385@mail2.sysu.edu.cn](wangch385@mail2.sysu.edu.cn)
+* **WhatsApp:** (Please scan the QR code)
   
     ![WhatsApp QR code](../images/QRcode.jpg)
