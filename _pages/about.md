@@ -14,16 +14,16 @@ I am looking for a **joint PhD student (visiting PhD student)** position *(one-y
 
 Short Bio
 ======
-I am **Chao Wang (WANG, Chao)**, a second-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **Information Literacy Education)**.
+I am **Chao Wang (WANG, Chao)**, a second-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **library science**. My research interest is **information literacy education**. 
 
 ***
 
 Education and Job
 ======
-* **Sep. 2022 — Now** : Doctoral student at the School of Information Management (Library Science), Sun Yat sen University (Guangzhou, Guangdong, China)
-* Sep. 2019 — Jun. 2022 : Postgraduate student at the [School of Management (Library Science)](http://manage.hbu.edu.cn/Graduate_show.php?cid=98&id=1524), [Hebei University (HBU)](http://en.hbu.cn/) (Baoding, Hebei, China)
+* **Sep. 2022 — Present** : Doctoral student at the School of Information Management, Sun Yat sen University (Guangzhou, Guangdong, China), majoring in **library science**.
+* Sep. 2019 — Jun. 2022 : Postgraduate student at the [School of Management](http://manage.hbu.edu.cn/Graduate_show.php?cid=98&id=1524), [Hebei University (HBU)](http://en.hbu.cn/) (Baoding, Hebei, China), majoring in **library science**.
 * Jul. 2018 — Aug. 2019 : User researcher working at an internet company (Beijing, China)
-* Sep. 2014 — Jun. 2018 : Undergraduate student at the School of Management (Library Science), Hebei University (Baoding, Hebei, China)
+* Sep. 2014 — Jun. 2018 : Undergraduate student at the School of Management, Hebei University (Baoding, Hebei, China), majoring in **library science**.
   
 ***
 
