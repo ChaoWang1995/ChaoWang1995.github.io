@@ -5,10 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-    
+---   
 ***
-
 SHORT BIO
 ======
 I am **Chao Wang (WANG, Chao)**, a second-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **library science**. My research interest is **information literacy education**. 
