@@ -22,7 +22,7 @@ Education and Job
 ======
 * **Sep. 2022 — Present** : Doctoral student at the School of Information Management, Sun Yat sen University (Guangzhou, Guangdong, China), majoring in **library science**.
 * Sep. 2019 — Jun. 2022 : Postgraduate student at the [School of Management](http://manage.hbu.edu.cn/Graduate_show.php?cid=98&id=1524), [Hebei University (HBU)](http://en.hbu.cn/) (Baoding, Hebei, China), majoring in **library science**.
-* Jul. 2018 — Aug. 2019 : User researcher working at an internet company (Beijing, China)
+* Jul. 2018 — Aug. 2019 : User researcher working at START, an internet company in the field of shared cars. (Beijing, China)
 * Sep. 2014 — Jun. 2018 : Undergraduate student at the School of Management, Hebei University (Baoding, Hebei, China), majoring in **library science**.
   
 ***
