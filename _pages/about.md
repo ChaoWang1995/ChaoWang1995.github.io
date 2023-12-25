@@ -6,18 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---   
+
 ***
+
 SHORT BIO
 ======
-I am **Chao Wang (WANG, Chao)**, a second-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **library science**. My research interest is **information literacy education**. 
+I am **Chao Wang (WANG, Chao)**, a second-year doctoral student at the [School of Information Management, Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **library science**. My research interest is **information literacy education**. 
 
 ***
 
 EDUCATION
 ======
-* **Sep. 2022 — Present** : Doctoral student at the School of Information Management, Sun Yat sen University (Guangzhou, Guangdong, China), majoring in **library science**.
-* Sep. 2019 — Jun. 2022 : Postgraduate student at the [School of Management](http://manage.hbu.edu.cn/Graduate_show.php?cid=98&id=1524), [Hebei University (HBU)](http://en.hbu.cn/) (Baoding, Hebei, China), majoring in **library science**.
-* Sep. 2014 — Jun. 2018 : Undergraduate student at the School of Management, Hebei University (Baoding, Hebei, China), majoring in **library science**.
+* **Sep. 2022 — Present** : Doctoral student at the School of Information Management, Sun Yat sen University (Guangzhou, China), majoring in library science.
+* Sep. 2019 — Jun. 2022 : Postgraduate student, [Hebei University (HBU)](http://en.hbu.cn/) (Baoding, China), majoring in library science.
+* Sep. 2014 — Jun. 2018 : Undergraduate student at the School of Management, Hebei University (Baoding, Hebei, China), majoring in library science.
   
 ***
 
