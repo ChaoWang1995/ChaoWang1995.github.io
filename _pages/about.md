@@ -14,9 +14,7 @@ I am looking for a **joint PhD student (visiting PhD student)** position *(one-y
 
 Short Bio
 ======
-I am **Chao Wang (王超)**, a fourth-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **Information Literacy & Digital Literacy (especially their education)**.
-
-My primary research field are Reading Promotion, and History of Library Science Figures' Ideology.  
+I am **Chao Wang (WANG, Chao)**, a second-year doctoral student at the [School of Information Management](https://ischool.sysu.edu.cn/zh-hans), [Sun Yat sen University (SYSU)](https://www.sysu.edu.cn/sysuen/), majoring in **Information Literacy Education)**.
 
 ***
 
